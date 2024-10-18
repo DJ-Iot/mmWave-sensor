@@ -21,4 +21,5 @@ Counting Limit: Set limits on the number of individuals the sensor should count 
 TX/RX Power: Control the transmission (TX) and reception (RX) power levels to optimize energy consumption and detection performance based on application needs.
 
 **Project Scope**
+
 This project covers both the hardware and software aspects of mmWave sensor development, with a focus on enhancing existing algorithms and customizing them to meet various use cases. It also emphasizes testing and validation through real-world examples, ensuring the algorithms' performance under different conditions.
